@@ -5,6 +5,9 @@
 [![Jihoon's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoon-seo)](https://jihoon-seo.github.io)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
