@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![Jihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoon-seo)](https://jihoon-seo.github.io/)
+[![Jihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoon-seo)](https://jihoon-seo.github.io)
+
+[![Jihoon's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoon-seo)](https://jihoon-seo.github.io)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **jihoon-seo/jihoon-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
